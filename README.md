@@ -1,2 +1,0 @@
-# dolorman.github.io
-site
